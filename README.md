@@ -12,6 +12,8 @@
     <img align="center" alt="Beatriz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Beatriz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Beatriz-Julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
+   <img align="right" alt="Beatriz-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/ada40390ea8473d56ea9bbad67d0118b.gif">
+</div>
 </div>
 
   ##
