@@ -19,8 +19,8 @@
   ##
   
   <div> 
-  <a href="" target="_blank"><img width="40" heigth="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a src="https://www.topcoder.com/members/belucchese"><img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38757/preview.svg"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a src="https://www.topcoder.com/members/belucchese"><img width="100" heigth="100" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38757/preview.svg"></a>
     
   </div>    
 <!--
