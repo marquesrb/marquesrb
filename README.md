@@ -20,7 +20,7 @@
   
   <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a src="https://www.topcoder.com/members/belucchese"><img width="40" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-the-topcoder-community-is-the-worlds-largest-network-of-designers-developers-and-data-scientists-logo-shadow-tal-revivo.png"/></a>
+  <a src="https://www.topcoder.com/members/belucchese"><img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38757/preview.svg"></a>
     
   </div>    
 <!--
