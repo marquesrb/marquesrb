@@ -43,8 +43,8 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 
 ## Languages and Tools  
 <div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
@@ -55,7 +55,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 
 ## Github Stats  
 <tr><td valign="top" width="100%">
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=marquesrb" align="left"/></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=marquesrb&theme=onedark" align="left"/></div>
 </td><td valign="top" width="100%">
 </td></tr>
 <br/>  
