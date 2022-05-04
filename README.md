@@ -41,7 +41,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 <br/>  
 
 
-## Technology Stack 
+## Technology Stack<img src="https://github.com/marquesrb/pixel-gif/blob/main/giphy%20(1).gif?raw=true" align="center" height="150" width="200"/>
 <div align="left">  
 <img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>  
 <img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>  
@@ -55,10 +55,14 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 </div>  
 <br/>  
 
-## My Github Stats  
+## My Github Stats<img src="https://github.com/marquesrb/pixel-gif/blob/main/giphy.gif?raw=true" align="center" height="150" width="200"/>
+<div align="left">   
+
 <tr><td valign="top" width="100%">
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=marquesrb&theme=onedark" align="left"/></div>
 </td><td valign="top" width="100%">
 </td></tr>
 <br/>  
 <br/>  
+
+Check Out My Repos
