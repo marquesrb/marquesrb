@@ -60,7 +60,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 <div align="left">   
 
 <tr><td valign="top" width="100%">
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=marquesrb&theme=rose_pine" align="left"/></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=marquesrb&theme=aura" align="left"/></div>
 </td><td valign="top" width="100%">
 </td></tr>
 <br/>  
