@@ -55,11 +55,12 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 </div>  
 <br/>  
 
-## My Github Stats<img src="https://github.com/marquesrb/pixel-gif/blob/main/giphy.gif?raw=true" align="center" height="150" width="200"/>
+## My Github Stats<img src="https://github.com/marquesrb/pixel-gif/blob/main/dc79wrs-f2dac587-e54a-40c2-aa4e-ab0e5248e84b.gif?raw=true" align="center" height="70" width="70"/>
+<!--<img src="https://github.com/marquesrb/pixel-gif/blob/main/293263670b8780146ab0c4e40a2ea890.gif?raw=true" align="center" height="100" width="150"/>-->
 <div align="left">   
 
 <tr><td valign="top" width="100%">
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=marquesrb&theme=onedark" align="left"/></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=marquesrb&theme=rose_pine" align="left"/></div>
 </td><td valign="top" width="100%">
 </td></tr>
 <br/>  
