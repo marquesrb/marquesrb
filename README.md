@@ -40,8 +40,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 </td></tr> 
 <br/>  
 
-
-## Technology Stack<img src="https://github.com/marquesrb/pixel-gif/blob/main/giphy%20(1).gif?raw=true" align="center" height="150" width="200"/>
+## Technology Stack
 <div align="left">  
 <img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>  
 <img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>  
