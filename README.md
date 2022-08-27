@@ -17,23 +17,20 @@
 </div>  
 
 ### Glad to see you here!  
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.   
+I am currently studying computer science at the University of São Paulo.
   
 <br/>  
 
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/marquesrb)  
+- 🔭 I'm currently focused on java developer skills
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I'm learning basic statistics  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ I like to see different solutions to the same problem
 
 
 </td><td valign="top" width="50%">
