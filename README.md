@@ -16,21 +16,6 @@
 </a>  
 </div>  
 
-### Glad to see you here!  
-I am currently studying computer science at the University of São Paulo.
-  
-<br/>  
-
-## Rapidfire  
-<tr><td valign="top" width="50%">
-
-- 🔭 I'm currently focused on java developer skills
-  
-
-- 🌱 I'm learning basic statistics  
-  
-
-- ⚡ I like to see different solutions to the same problem
 
 
 </td><td valign="top" width="50%">
@@ -40,8 +25,7 @@ I am currently studying computer science at the University of São Paulo.
 ## Technology Stack
 <div align="left">  
 <img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>  
-<img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>  
-<img style="margin: 10px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>  
+<img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>   
 <img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>  
 <img style="margin: 10px" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>  
 <img style="margin: 10px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> 
