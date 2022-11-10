@@ -22,18 +22,6 @@
 </td></tr> 
 <br/>  
 
-## Technology Stack
-<div align="left">  
-<img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>  
-<img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>   
-<img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>  
-<img style="margin: 10px" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>  
-<img style="margin: 10px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> 
-<img style="margin: 10px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>  
-<img style="margin: 10px" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="julia"/>  
-
-</div>  
-<br/>  
 
 ## My Github Stats<img src="https://github.com/marquesrb/pixel-gif/blob/main/dc79wrs-f2dac587-e54a-40c2-aa4e-ab0e5248e84b.gif?raw=true" align="center" height="70" width="70"/>
 <!--<img src="https://github.com/marquesrb/pixel-gif/blob/main/293263670b8780146ab0c4e40a2ea890.gif?raw=true" align="center" height="100" width="150"/>-->
